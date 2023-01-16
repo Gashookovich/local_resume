@@ -22,9 +22,6 @@ export default {
 </script>
 
 <style lang="scss">
-.home {
-  width: 100%;
-}
 #app {
   width: 100%;
   font-family: Avenir, Helvetica, Arial, sans-serif;

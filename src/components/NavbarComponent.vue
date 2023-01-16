@@ -34,7 +34,7 @@ export default {
     .navbar {
       position: fixed;
       top: 0;
-      width: 96.6%;
+      width: 96.5%;
       height: 50px;
       background-color: #FFE4B5;
       box-shadow: 2px 2px 4px gray;
@@ -56,7 +56,7 @@ export default {
     .navbar {
       position: fixed;
       top: 0;
-      width: 97%;
+      width: 95%;
       height: 50px;
       background-color: #FFE4B5;
       box-shadow: 2px 2px 4px gray;
@@ -78,7 +78,7 @@ export default {
     .navbar {
       position: fixed;
       top: 0;
-      width: 95%;
+      width: 93%;
       height: 50px;
       background-color: #FFE4B5;
       box-shadow: 2px 2px 4px gray;
@@ -100,7 +100,7 @@ export default {
     .navbar {
       position: fixed;
       top: 0;
-      width: 93%;
+      width: 89%;
       height: 50px;
       background-color: #FFE4B5;
       box-shadow: 2px 2px 4px gray;
