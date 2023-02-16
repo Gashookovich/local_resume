@@ -36,14 +36,13 @@ export default {
       top: 0;
       width: 96.5%;
       height: 50px;
-      background-color: #FFE4B5;
-      box-shadow: 2px 2px 4px gray;
+      background-color: #FFFFE0;
       display: flex;
       align-items: center;
       padding: 0 15px;
       font-family: Georgia, serif;
       font-size: 20px;
-      color: #4B0082;
+      color: #000000;
     }
     .navbar__btns {
         display: flex;
@@ -58,14 +57,13 @@ export default {
       top: 0;
       width: 95%;
       height: 50px;
-      background-color: #FFE4B5;
-      box-shadow: 2px 2px 4px gray;
+      background-color: #FFFFE0;
       display: flex;
       align-items: center;
       padding: 0 15px;
       font-family: Georgia, serif;
       font-size: 20px;
-      color: #4B0082;
+      color: #000000;
     }
     .navbar__btns {
         display: flex;
@@ -80,14 +78,13 @@ export default {
       top: 0;
       width: 93%;
       height: 50px;
-      background-color: #FFE4B5;
-      box-shadow: 2px 2px 4px gray;
+      background-color: #FFFFE0;
       display: flex;
       align-items: center;
       padding: 0 15px;
       font-family: Georgia, serif;
       font-size: 17px;
-      color: #4B0082;
+      color: #000000;
     }
     .navbar__btns {
         display: flex;
@@ -102,14 +99,13 @@ export default {
       top: 0;
       width: 89%;
       height: 50px;
-      background-color: #FFE4B5;
-      box-shadow: 2px 2px 4px gray;
+      background-color: #FFFFE0;
       display: flex;
       align-items: center;
       padding: 0 15px;
       font-family: Georgia, serif;
       font-size: 17px;
-      color: #4B0082;
+      color: #000000;
     }
     .navbar__btns {
         display: flex;

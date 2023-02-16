@@ -25,7 +25,7 @@ const messages = {
       value: 'Welcome to my business card!'
     },
     history: {
-      value: 'My name is Vadim Arzhanov, I am 30 years old. I was born in the city of Kazan, Republic of Tatarstan. Now I live in Serbia. Responsible, energetic, purposeful, sociable and just a good person. I am not afraid of work and always glad to learn something new. Here you can find information about me and my work experience. I am currently a frontend developer. I am engaged in the development of websites, landing pages, SPA. Stack: html, css, JavaScript, TypeScript, React, Redux, Vue, Vuex, Node.js, working with git, understanding OOP principles and BEM methodology.'
+      value: 'My name is Vadim Arzhanov, I am 31 years old. I was born in the city of Kazan, Republic of Tatarstan. Now I live in Serbia. Responsible, energetic, purposeful, sociable and just a good person. I am not afraid of work and always glad to learn something new. Here you can find information about me and my work experience. I am currently a frontend developer. I am engaged in the development of websites, landing pages, SPA. Stack: HTML, CSS, JavaScript, React, Redux, Vue, Vuex, Node.js, working with git, understanding OOP principles and BEM methodology.'
     },
     education: {
       value: 'Education'
@@ -114,7 +114,7 @@ const messages = {
       value: 'Приветствую на моей визитке!'
     },
     history: {
-      value: 'Меня зовут Аржанов Вадим, мне 30 лет. Я родился в городе Казань, Республика Татарстан. Сейчас живу в Сербии. Ответственный, энергичный, целеустремлённый, коммуникабельный и просто хороший человек. Не боюсь работы и всегда рад научиться чему-то новому. Здесь вы можете ознакомиться с информацией обо мне и моём опыте работы. На данный момент являюсь frontend-разработчиком. Занимаюсь разработкой сайтов, лэндингов, SPA. Стэк: html, css, JavaScript, TypeScript, React, Redux, Vue, Vuex, Node.js, работа с git, понимание принципов ООП и методологии БЭМ.'
+      value: 'Меня зовут Аржанов Вадим, мне 31 год. Я родился в городе Казань, Республика Татарстан. Сейчас живу в Сербии. Ответственный, энергичный, целеустремлённый, коммуникабельный и просто хороший человек. Не боюсь работы и всегда рад научиться чему-то новому. Здесь вы можете ознакомиться с информацией обо мне и моём опыте работы. На данный момент являюсь frontend-разработчиком. Занимаюсь разработкой сайтов, лэндингов, SPA. Стэк: HTML, CSS, JavaScript, React, Redux, Vue, Vuex, Node.js, работа с git, понимание принципов ООП и методологии БЭМ.'
     },
     education: {
       value: 'Образование'

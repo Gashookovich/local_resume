@@ -111,7 +111,7 @@ export default {
 <style scoped>
 @media screen and (max-width: 1440px) and (min-width: 960px) {
   .education {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .education__select {
@@ -126,12 +126,12 @@ export default {
   .image {
     width: 48%;
     margin: 5px 5px;
-    border: 2px solid #4B0082;
+    border: 2px solid #2E8B57;
   }
 }
 @media screen and (max-width: 960px) and (min-width: 640px) {
   .education {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .education__select {
@@ -146,12 +146,12 @@ export default {
   .image {
     width: 48%;
     margin: 5px 5px;
-    border: 2px solid #4B0082;
+    border: 2px solid #2E8B57;
   }
 }
 @media screen and (max-width: 640px) and (min-width: 480px) {
   .education {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .education__select {
@@ -167,12 +167,12 @@ export default {
   .image {
     width: 90%;
     margin: 5px 5px;
-    border: 2px solid #4B0082;
+    border: 2px solid #2E8B57;
   }
 }
 @media screen and (max-width: 480px) and (min-width: 320px) {
   .education {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .education__select {
@@ -191,7 +191,7 @@ export default {
   .image {
     width: 95%;
     margin: 5px 5px;
-    border: 2px solid #4B0082;
+    border: 2px solid #2E8B57;
   }
 }
 </style>

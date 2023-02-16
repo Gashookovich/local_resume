@@ -56,7 +56,7 @@ export default {
 <style scoped>
 @media screen and (max-width: 1440px) and (min-width: 960px) {
   .hobbies {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .hobbies__content {
@@ -72,13 +72,13 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-body {
     display: flex;
@@ -93,17 +93,17 @@ export default {
   .hobbies__content-body-image {
     width: 60%;
     margin-left: 5%;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
   }
   .hobbies__content-body-text {
     width: 50%;
     padding: 5px 5px;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     margin-left: 2%;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-footer {
     width: 60%;
@@ -111,18 +111,18 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 960px) and (min-width: 640px) {
   .hobbies {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .hobbies__content {
@@ -138,13 +138,13 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-body {
     display: flex;
@@ -159,17 +159,17 @@ export default {
   .hobbies__content-body-image {
     width: 70%;
     margin-left: 5%;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
   }
   .hobbies__content-body-text {
     width: 100%;
     padding: 5px 5px;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     margin-left: 2%;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-footer {
     width: 60%;
@@ -177,18 +177,18 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 640px) and (min-width: 480px) {
   .hobbies {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .hobbies__content {
@@ -204,13 +204,13 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-body {
     display: flex;
@@ -225,17 +225,17 @@ export default {
   .hobbies__content-body-image {
     width: 70%;
     margin-left: 5%;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
   }
   .hobbies__content-body-text {
     width: 100%;
     padding: 5px 5px;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     margin-left: 2%;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-footer {
     width: 60%;
@@ -243,18 +243,18 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 480px) and (min-width: 320px) {
   .hobbies {
-    color: #4B0082;
+    color: #2E8B57;
     font-family: Georgia, serif;
   }
   .hobbies__head {
@@ -273,13 +273,13 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
   .hobbies__content-body {
     display: flex;
@@ -294,17 +294,17 @@ export default {
   .hobbies__content-body-image {
     width: 65%;
     margin-left: 1%;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
   }
   .hobbies__content-body-text {
     width: 33%;
     padding: 1px 1px;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     margin-left: 2%;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
     font-size: 15px;
   }
   .hobbies__content-footer {
@@ -313,13 +313,13 @@ export default {
     justify-content: center;
     align-items: center;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: center;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 </style>

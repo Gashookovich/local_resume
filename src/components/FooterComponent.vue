@@ -49,7 +49,7 @@
 <style scoped>
 .footer {
     height: 190px;
-    background-color: #696969;
+    background-color: black;
     display: flex;
     flex-direction: column;
     line-height: 1.5;

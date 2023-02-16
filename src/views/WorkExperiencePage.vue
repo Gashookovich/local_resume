@@ -88,66 +88,66 @@ export default {
 .work {
   display: flex;
   flex-direction: column;
-  color: #4B0082;
+  color: #2E8B57;
   font-family: Georgia, serif;
   align-items: center;
 }
 .work__portfolio {
   width: 40%;
   line-height: 1.5;
-  border: 1px solid #4B0082;
+  border: 1px solid #2E8B57;
   border-radius: 10px;
   color: #2F4F4F;
-  background-color: #FFE4B5;
+  background-color: #FFFFE0;
   font-size: 22px;
   margin: 10px 5px;
 }
 .work__portfolio-link:hover {
-  color: #4B0082;
+  color: #000000;
 }
 }
 @media screen and (max-width: 960px) and (min-width: 640px) {
 .work {
   display: flex;
   flex-direction: column;
-  color: #4B0082;
+  color: #2E8B57;
   font-family: Georgia, serif;
   align-items: center;
 }
 .work__portfolio {
   width: 60%;
   line-height: 1.5;
-  border: 1px solid #4B0082;
+  border: 1px solid #2E8B57;
   border-radius: 10px;
   color: #2F4F4F;
-  background-color: #FFE4B5;
+  background-color: #FFFFE0;
   font-size: 22px;
   margin: 10px 5px;
 }
 .work__portfolio-link:hover {
-  color: #4B0082;
+  color: #000000;
 }
 }
 @media screen and (max-width: 640px) and (min-width: 480px) {
   .work {
   display: flex;
   flex-direction: column;
-  color: #4B0082;
+  color: #2E8B57;
   font-family: Georgia, serif;
   align-items: center;
 }
 .work__portfolio {
   width: 70%;
   line-height: 1.5;
-  border: 1px solid #4B0082;
+  border: 1px solid #2E8B57;
   border-radius: 10px;
   color: #2F4F4F;
-  background-color: #FFE4B5;
+  background-color: #FFFFE0;
   font-size: 22px;
   margin: 10px 5px;
 }
 .work__portfolio-link:hover {
-  color: #4B0082;
+  color: #000000;
 }
     
 }
@@ -155,22 +155,22 @@ export default {
   .work {
   display: flex;
   flex-direction: column;
-  color: #4B0082;
+  color: #2E8B57;
   font-family: Georgia, serif;
   align-items: center;
 }
 .work__portfolio {
   width: 83%;
   line-height: 1.5;
-  border: 1px solid #4B0082;
+  border: 1px solid #2E8B57;
   border-radius: 10px;
   color: #2F4F4F;
-  background-color: #FFE4B5;
+  background-color: #FFFFE0;
   font-size: 22px;
   margin: 10px 5px;
 }
 .work__portfolio-link:hover {
-  color: #4B0082;
+  color: #000000;
 }
   h1 {
     font-size: 30px;

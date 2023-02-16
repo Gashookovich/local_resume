@@ -45,7 +45,7 @@
     .home-page {
       display: flex;
       justify-content: space-around;
-      color: #4B0082;
+      color: black;
     }
     .home-page__content {
       display: flex;
@@ -61,7 +61,7 @@
       padding-top: 5px;
       padding-bottom: 25px;
       font-family: Georgia, serif;
-      font-size: 19px;
+      font-size: 20px;
     }
     .home-page__btns {
       display: flex;
@@ -70,6 +70,9 @@
       align-items: center;
       flex-basis: 120px;
       
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 18px;
     }
     .home-page__btns-btn2, .home-page__btns-btn3 {
       margin-top: 80px;
@@ -85,7 +88,7 @@
       display: flex;
       flex-direction: column;
       justify-content: end;
-      color: #4B0082;
+      color: black;
       align-items: center;
     }
     .home-page__content {
@@ -103,13 +106,16 @@
       padding-top: 5px;
       padding-bottom: 25px;
       font-family: Georgia, serif;
-      font-size: 18px;
+      font-size: 20px;
     }
     .home-page__btns {
       display: flex;
-     justify-content: space-around;
+      justify-content: space-around;
       align-items: center;
       margin: 15px 10px;
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 20px;
     }
     .home-page__btns-btn2, .home-page__btns-btn3 {
       margin-left: 100px;
@@ -125,7 +131,7 @@
       display: flex;
       flex-direction: column;
       justify-content: end;
-      color: #4B0082;
+      color: black;
       align-items: center;
     }
     .home-page__content {
@@ -143,13 +149,16 @@
       padding-top: 5px;
       padding-bottom: 25px;
       font-family: Georgia, serif;
-      font-size: 18px;
+      font-size: 19px;
     }
     .home-page__btns {
       display: flex;
       justify-content: space-around;
       align-items: center;
       margin: 15px 10px;
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 18px;
     }
     .home-page__btns-btn2, .home-page__btns-btn3 {
       margin-left: 15px;
@@ -165,7 +174,7 @@
       display: flex;
       flex-direction: column;
       justify-content: end;
-      color: #4B0082;
+      color: black;
       align-items: center;
     }
     .home-page__content {
@@ -192,11 +201,14 @@
       margin: 15px 10px;
     }
     .home-page__btns-btn1 {
-      height: 50px;
+      height: 60px;
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 15px;
     }
     .home-page__btns-btn2, .home-page__btns-btn3 {
       margin-left: 15px;
-      height: 50px;
+     
     }
   }
 </style>

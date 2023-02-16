@@ -41,13 +41,13 @@ export default {
     justify-content: center;
     align-items: flex-start;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: left;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 960px) and (min-width: 640px) {
@@ -65,13 +65,13 @@ export default {
     justify-content: center;
     align-items: flex-start;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: left;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 640px) and (min-width: 480px) {
@@ -89,13 +89,13 @@ export default {
     justify-content: center;
     align-items: flex-start;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: left;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 @media screen and (max-width: 480px) and (min-width: 320px) {
@@ -113,13 +113,13 @@ export default {
     justify-content: center;
     align-items: flex-start;
     line-height: 1.5;
-    border: 1px solid #4B0082;
+    border: 1px solid #2E8B57;
     border-radius: 10px;
     padding: 5px 5px;
     margin-top: 10px;
     text-align: left;
     color: #2F4F4F;
-    background-color: #FFE4B5;
+    background-color: #FFFFE0;
   }
 }
 </style>
