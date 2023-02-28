@@ -47,7 +47,48 @@
 </script>
   
 <style scoped>
-.footer {
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+  .footer {
+    height: 300px;
+    font-size: 25px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    padding: 0 15px;
+    font-family: Georgia, serif;
+    color: #FFE4B5;
+  }
+  .footer__info {
+      font-size: 23px;
+      padding: 10px 5px;
+  }
+  .footer__link:hover {
+    color: #4B0082;
+  }
+} 
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+  .footer {
+    height: 290px;
+    font-size: 25px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    line-height: 1.5;
+    padding: 0 15px;
+    font-family: Georgia, serif;
+    color: #FFE4B5;
+  }
+  .footer__info {
+      font-size: 22px;
+      padding: 0px 5px;
+  }
+  .footer__link:hover {
+    color: #4B0082;
+  }
+} 
+@media screen and (max-width: 1440px) and (min-width: 320px) {
+  .footer {
     height: 190px;
     background-color: black;
     display: flex;
@@ -56,11 +97,12 @@
     padding: 0 15px;
     font-family: Georgia, serif;
     color: #FFE4B5;
-}
-.footer_info {
+  }
+  .footer_info {
     padding: 10px 50px;
-}
-.footer__link:hover {
-  color: #4B0082;
-}
+  }
+  .footer__link:hover {
+    color: #4B0082;
+  }
+} 
 </style>

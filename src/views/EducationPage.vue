@@ -109,6 +109,46 @@ export default {
 </script>
 
 <style scoped>
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+  .education {
+    color: #2E8B57;
+    font-family: Georgia, serif;
+  }
+  .education__select {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .education__image {
+    display: flex;
+    flex-direction: row;
+    margin: 5px 5px;
+  }
+  .image {
+    width: 48%;
+    margin: 5px 5px;
+    border: 2px solid #2E8B57;
+  }
+}
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+  .education {
+    color: #2E8B57;
+    font-family: Georgia, serif;
+  }
+  .education__select {
+    display: flex;
+    justify-content: flex-end;
+  }
+  .education__image {
+    display: flex;
+    flex-direction: row;
+    margin: 5px 5px;
+  }
+  .image {
+    width: 48%;
+    margin: 5px 5px;
+    border: 2px solid #2E8B57;
+  }
+}
 @media screen and (max-width: 1440px) and (min-width: 960px) {
   .education {
     color: #2E8B57;

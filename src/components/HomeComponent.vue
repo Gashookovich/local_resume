@@ -34,6 +34,96 @@
   </script>
   
   <style scoped>
+  @media screen and (max-width: 1920px) and (min-width: 1600px) {
+    img {
+      height: 100%;
+      width: 30%;
+      padding-top: 15px;
+      border-radius: 120px;
+      margin: 10px 5px;
+    }
+    .home-page {
+      display: flex;
+      justify-content: space-around;
+      color: black;
+    }
+    .home-page__content {
+      display: flex;
+      flex-direction: column;
+    }
+    h1 {
+      margin-top: 30px;
+      font-family: Georgia, serif;
+      font-size: 40px;
+    }
+    .content {
+      line-height: 2;
+      margin: 15px 10px;
+      padding-top: 5px;
+      padding-bottom: 25px;
+      font-family: Georgia, serif;
+      font-size: 30px;
+    }
+    .home-page__btns {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 120px;
+      
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 25px;
+    }
+    .home-page__btns-btn2, .home-page__btns-btn3 {
+      margin-top: 80px;
+    }
+  }
+  @media screen and (max-width: 1600px) and (min-width: 1440px) {
+    img {
+      height: 100%;
+      width: 30%;
+      padding-top: 15px;
+      border-radius: 120px;
+      margin: 10px 5px;
+    }
+    .home-page {
+      display: flex;
+      justify-content: space-around;
+      color: black;
+    }
+    .home-page__content {
+      display: flex;
+      flex-direction: column;
+    }
+    h1 {
+      margin-top: 30px;
+      font-family: Georgia, serif;
+      font-size: 35px;
+    }
+    .content {
+      line-height: 2;
+      margin: 15px 10px;
+      padding-top: 5px;
+      padding-bottom: 25px;
+      font-family: Georgia, serif;
+      font-size: 25px;
+    }
+    .home-page__btns {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      flex-basis: 120px;
+      
+    }
+    .home-page__btns-btn1, .home-page__btns-btn2, .home-page__btns-btn3 {
+      font-size: 22px;
+    }
+    .home-page__btns-btn2, .home-page__btns-btn3 {
+      margin-top: 80px;
+    }
+  }
   @media screen and (max-width: 1440px) and (min-width: 960px) {
     img {
       height: 100%;

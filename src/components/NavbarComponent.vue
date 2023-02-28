@@ -30,6 +30,48 @@ export default {
 </script>
   
 <style scoped>
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 97.5%;
+      height: 70px;
+      background-color: #FFFFE0;
+      display: flex;
+      align-items: center;
+      padding: 0 15px;
+      font-family: Georgia, serif;
+      font-size: 32px;
+      color: #000000;
+    }
+    .navbar__btns {
+        display: flex;
+        justify-content: right;
+        margin-left: auto;
+        align-items: center;
+    }
+  }
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+    .navbar {
+      position: fixed;
+      top: 0;
+      width: 97.5%;
+      height: 60px;
+      background-color: #FFFFE0;
+      display: flex;
+      align-items: center;
+      padding: 0 15px;
+      font-family: Georgia, serif;
+      font-size: 30px;
+      color: #000000;
+    }
+    .navbar__btns {
+        display: flex;
+        justify-content: right;
+        margin-left: auto;
+        align-items: center;
+    }
+  }
 @media screen and (max-width: 1440px) and (min-width: 960px) {
     .navbar {
       position: fixed;

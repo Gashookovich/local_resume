@@ -26,6 +26,56 @@ export default {
 </script>
 
 <style scoped>
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+  .work__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+  }
+  .work__content-compound {
+    width: 60%;
+    font-size: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    line-height: 1.5;
+    border: 1px solid #2E8B57;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin-top: 10px;
+    text-align: left;
+    color: #2F4F4F;
+    background-color: #FFFFE0;
+  }
+}
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+  .work__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px 10px;
+  }
+  .work__content-compound {
+    width: 60%;
+    font-size: 24px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    line-height: 1.5;
+    border: 1px solid #2E8B57;
+    border-radius: 10px;
+    padding: 5px 5px;
+    margin-top: 10px;
+    text-align: left;
+    color: #2F4F4F;
+    background-color: #FFFFE0;
+  }
+}
 @media screen and (max-width: 1440px) and (min-width: 960px) {
   .work__content {
     display: flex;
@@ -35,7 +85,7 @@ export default {
     margin: 10px 10px;
   }
   .work__content-compound {
-    width: 40%;
+    width: 70%;
     display: flex;
     flex-direction: column;
     justify-content: center;

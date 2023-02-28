@@ -21,6 +21,40 @@ export default {
 </script>
 
 <style>
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+select {
+    font-size: 25px;
+    padding: 8px 15px;
+    outline: 0;
+    background-color: #FFFFE0;
+    border-radius: 15px;
+    border: 2px solid #2E8B57;
+    box-shadow: 2px 2px 4px gray;
+    cursor: pointer;
+    color: #2E8B57;
+  }  
+select:hover {
+    color: #000000;
+    border: 2px solid #000000;
+  }
+}
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+select {
+    font-size: 22px;
+    padding: 8px 15px;
+    outline: 0;
+    background-color: #FFFFE0;
+    border-radius: 15px;
+    border: 2px solid #2E8B57;
+    box-shadow: 2px 2px 4px gray;
+    cursor: pointer;
+    color: #2E8B57;
+  }  
+select:hover {
+    color: #000000;
+    border: 2px solid #000000;
+  }
+}
 @media screen and (max-width: 1440px) and (min-width: 960px) {
 select {
     width: 80px;

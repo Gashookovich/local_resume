@@ -84,6 +84,50 @@ export default {
 </script>
 
 <style scoped>
+@media screen and (max-width: 1920px) and (min-width: 1600px) {
+.work {
+  display: flex;
+  flex-direction: column;
+  color: #2E8B57;
+  font-family: Georgia, serif;
+  align-items: center;
+}
+.work__portfolio {
+  width: 60%;
+  line-height: 1.5;
+  border: 1px solid #2E8B57;
+  border-radius: 10px;
+  color: #2F4F4F;
+  background-color: #FFFFE0;
+  font-size: 25px;
+  margin: 10px 5px;
+}
+.work__portfolio-link:hover {
+  color: #000000;
+}
+}
+@media screen and (max-width: 1600px) and (min-width: 1440px) {
+.work {
+  display: flex;
+  flex-direction: column;
+  color: #2E8B57;
+  font-family: Georgia, serif;
+  align-items: center;
+}
+.work__portfolio {
+  width: 60%;
+  line-height: 1.5;
+  border: 1px solid #2E8B57;
+  border-radius: 10px;
+  color: #2F4F4F;
+  background-color: #FFFFE0;
+  font-size: 24px;
+  margin: 10px 5px;
+}
+.work__portfolio-link:hover {
+  color: #000000;
+}
+}
 @media screen and (max-width: 1440px) and (min-width: 960px) {
 .work {
   display: flex;
