@@ -53,7 +53,7 @@ export default {
         },
         {
           id: 2,
-          company: 'JSC Tatelektromonazh/АО Татэлектромонаж',
+          company: 'JSC Tatelektromontazh/АО Татэлектромонтаж',
           jobTitle: 'Process Engineer/Инженер-технолог',
           start: 'December 2020/Декабрь 2020',
           end: 'July 2021/Июль 2021',
@@ -66,7 +66,7 @@ export default {
         },
         {
           id: 3,
-          company: 'JSC Tatelektromonazh/АО Татэлектромонаж',
+          company: 'JSC Tatelektromontazh/АО Татэлектромонтаж',
           jobTitle: 'Service engineer/Инженер-наладчик',
           start: 'September 2014/Сентябрь 2014',
           end: 'Desember 2020/Декабрь 2020',
